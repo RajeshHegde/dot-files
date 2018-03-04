@@ -20,4 +20,5 @@ brew "yarn", link: false
 #brew "ethereum/ethereum/ethereum"
 cask "dbeaver-community"
 cask "meld"
+cask "imageoptim"
 brew "p7zip"
