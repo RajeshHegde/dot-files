@@ -22,3 +22,6 @@ cask "dbeaver-community"
 cask "meld"
 cask "imageoptim"
 brew "p7zip"
+
+brew "r"
+brew cask "rstudio"
